@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".module.main.MainActivity">
+    <item
+        android:id="@+id/other_settings"
+        android:title="Reset All Label" />
+    <item
+        android:id="@+id/quit"
+        android:icon="@drawable/quit"
+        android:title="Quit" />
+    <item
+        android:id="@+id/action_settings"
+        android:icon="@drawable/settings"
+        android:title="@string/action_settings"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_refresh"
+        android:icon="@drawable/refresh_wifi"
+        android:title="Refresh Wifi"
+        app:showAsAction="ifRoom" />
+</menu>
