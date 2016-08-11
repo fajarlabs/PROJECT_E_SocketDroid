@@ -5,7 +5,7 @@ Wedo is android application that uses web services and Wemos agnosthings D1 mini
    - Service automatically using handler
    - Service to differentiate between the switch and sensor
    
-![Alt text](https://s32.postimg.org/3n3zzliph/Screenshot_2016_07_18_15_20_21.png "Optional title")
+![Alt text](https://s9.postimg.org/e6dzv9kj3/Screenshot_2016_08_11_09_18_37.png "Optional title")
 
 ### Version
 1.0.0
