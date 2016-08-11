@@ -1,4 +1,4 @@
-# Wedo
+# e-socket for android
 
 Wedo is android application that uses web services and Wemos agnosthings D1 mini [http://www.wemos.cc/Products/d1_mini.html]. With such feature is
    - Notifications to switch hotels
